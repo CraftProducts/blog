@@ -22,7 +22,7 @@ const Sidebar = ({ isIndex }: Props) => {
         <Menu menu={menu} />
         <Contacts contacts={author.contacts} />
 
-        <a style={{ marginBottom: '5pt', fontSize: 'large', backgroundColor: '#ff8800', color: '#fff', padding: '4pt 8pt', borderRadius: '4pt' }}
+        <a style={{ marginBottom: '5pt', fontSize: 'large', backgroundColor: '#007BFF', color: '#fff', padding: '4pt 8pt', borderRadius: '4pt' }}
           href={getStartedUrl}
           target="_blank"
           rel="noopener noreferrer">

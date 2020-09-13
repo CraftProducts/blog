@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: 'https://blog.storypurpose.info',
-  getStartedUrl: 'https://app.storypurpose.info',
+  url: 'https://blog.craftproducts.co',
+  getStartedUrl: 'https://app.craftproducts.co',
   pathPrefix: '/',
-  title: 'Storypurpose blog',
-  subtitle: 'Ensure every story\'s purpose aligns with that of organization.',
+  title: 'Craftproducts blog',
+  subtitle: 'Tools and templates for building awesome products.',
   copyright: '© AD 2020',
   disqusShortname: '',
   postsPerPage: 4,
@@ -22,14 +22,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'StoryPurpose',
-    photo: '/photo.jpg',
-    bio: 'Thoughts about what makes a good user story and how to ensure each story fits in to organization\'s bigger purpose.',
+    name: 'CraftProducts',
+    photo: '/logo.png',
+    bio: 'Thoughts about building awesome products',
     contacts: {
       email: 'adhamankar@gmail.com',
-      facebook: 'Storypurpose-101985351530587',
-      twitter: 'story_purpose',
-      github: 'https://github.com/adhamankar/storypurpose',
+      facebook: 'craftproductz',
+      twitter: 'craftproductz',
+      github: 'https://github.com/craftproducts',
       linkedin: '',
       youtube: ''
     }
